@@ -1,0 +1,8 @@
+"git init            
+git status
+git add . 
+git commit -m '메시지' 
+git log
+git remote add origin ____
+git remote -v
+git push origin master"
